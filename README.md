@@ -20,7 +20,8 @@
   <img align="center" alt="Kauan-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />­­ &nbsp&nbsp
   <img align="center" alt="Kauan-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />­­ &nbsp&nbsp
   <img align="center" alt="Kauan-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />­­ &nbsp&nbsp
-  <img align="center" alt="Kauan-Mysql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />­­
+  <img align="center" alt="Kauan-Mysql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />­­ &nbsp&nbsp
+  <img align="center" alt="Kauan-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />­­
 </div>
 
 <br>
