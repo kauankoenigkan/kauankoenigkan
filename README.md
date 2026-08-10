@@ -16,7 +16,6 @@
 <br>
 
 ## ⌨️ *LINGUAGENS*
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />­­ &nbsp&nbsp
   <img align="center" alt="Kauan-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />­­ &nbsp&nbsp
