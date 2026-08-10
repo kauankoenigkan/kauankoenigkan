@@ -1,6 +1,5 @@
 ## Bem-vindo ao meu perfil, me chamo Kauan Koenigkan.
 
-table border="0">
   <tr>
     <td align="center" valign="middle">
       <a href="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent">
