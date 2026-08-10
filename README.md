@@ -16,6 +16,6 @@
   ##
  
 <div> 
-  <a href = "mailto:kauan.koenigkan@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+  <a href="mailto:kauan.koenigkan@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a>
   <a href="https://www.linkedin.com/in/kauankoenigkan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
