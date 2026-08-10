@@ -2,10 +2,6 @@
   <i>Bem-vindo(a)! Eu sou o Kauan Koenigkan</i>
 </h1>
 
-<p align="center">
-  <img src="VideoGITHUB.gif" width="100%">
-</p>
-
  <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent"><img height="180" src="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" /></a>&nbsp;<a href="https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&layout=donut&hide_title=true&langs_count=4&theme=transparent"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&layout=donut&hide_title=true&langs_count=4&theme=transparent" alt="Top Langs" /></a>
 </p>
