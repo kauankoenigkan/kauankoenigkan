@@ -1,8 +1,6 @@
-<h1 align="center" style="border-bottom: 1px solid var(--color-border-default);">
-  Bem-vindo(a)! Eu sou o Kauan Koenigkan
-</h1>
+<h1 align="center"> Bem-vindo(a)! Sou o Kauan Koenigkan </h2>
 
-<h3> 🧠 Sobre mim </h3>
+### 🧠 Sobre mim
 <p align="justify">
   Estudante de Análise e Desenvolvimento de Sistemas, e mais do que escrever códigos, gosto de entender o motivo por trás de cada problema antes de sair 'codando' a solução. Tenho um jeito curioso de     encarar as coisas: gosto de separar o problema em partes para entende-las e só depois montar a solução de preferência, mais simples e sustentável possível.<br>
   Fora do código, gosto de colocar minhas ideias em prática, criando projetos pessoais do zero para aprender fazendo e não apenas lendo.<br>
@@ -11,12 +9,12 @@
 
 ---
 
-<h3> 📊 Estatística do perfil </h3>
+### 📊 Estatística do perfil
 <p align="left">
   <a href="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent"><img height="180" src="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;<a href="https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&layout=donut&hide_title=true&langs_count=4&theme=transparent"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&layout=donut&hide_title=true&langs_count=4&theme=transparent" alt="Top Langs" /></a>
 </p> 
 
-<h3> 🧰 Linguagens & Ferramentas Conhecidas </h3>
+### 🧰 Linguagens & Ferramentas Conhecidas
  
   <img align="center" alt="Kauan-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />­­
   <img align="center" alt="Kauan-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />­­
