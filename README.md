@@ -30,6 +30,6 @@
 
 <h3> ✉️ Contatos </h3>
   <div> 
-    <a href="mailto:kauan.koenigkan@outlook.com" target="_blank"><img src="https://img.shields.io/badge/kauan.koenigkan@outlook.com-0078D4?style=for-the-badge&logo=kauan.koenigkan@outlook.com&logoColor=white" alt="Outlook" /></a> &nbsp
+    <a href="https://outlook.live.com/mail/0/deeplink/compose?to=kauan.koenigkan@outlook.com" target="_blank"><img src="https://img.shields.io/badge/kauan.koenigkan%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a>
     <a href="https://www.linkedin.com/in/kauankoenigkan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
