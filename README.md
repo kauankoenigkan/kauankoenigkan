@@ -7,30 +7,29 @@
   Hoje busco uma oportunidade de estágio para colocar tudo isso em prática. E com isso, crescer e aprender com a equipe.
 </p>
 
----
+##
 
 ### 📊 Estatística do perfil
 <p align="left">
   <a href="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent"><img height="180" src="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;<a href="https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&layout=donut&hide_title=true&langs_count=4&theme=transparent"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&layout=donut&hide_title=true&langs_count=4&theme=transparent" alt="Top Langs" /></a>
 </p> 
 
-### 🧰 Linguagens & Ferramentas Conhecidas
- 
-  <img align="center" alt="Kauan-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />­­
-  <img align="center" alt="Kauan-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />­­
-  <img align="center" alt="Kauan-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />­­ 
-  <img align="center" alt="Kauan-Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />­­ 
-  <img align="center" alt="Kauan-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />­­ 
-  <img align="center" alt="Kauan-NodeJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />­­ 
-  <img align="center" alt="Kauan-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />­­ 
-  <img align="center" alt="Kauan-VSCODE" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />­­ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kauan-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />­­ &nbsp
+  <img align="center" alt="Kauan-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />­­ &nbsp
+  <img align="center" alt="Kauan-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />­­ &nbsp
+  <img align="center" alt="Kauan-Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />­­ &nbsp
+  <img align="center" alt="Kauan-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />­­ &nbsp
+  <img align="center" alt="Kauan-NodeJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />­­ &nbsp
+  <img align="center" alt="Kauan-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />­­ &nbsp
+  <img align="center" alt="Kauan-VSCODE" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />­­ &nbsp
   <img align="center" alt="Kauan-IntelliJ" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />­­
+</div>
 
-
----
+##
 
 <h3> ✉️ Contatos </h3>
   <div> 
-    <a href="mailto:kauan.koenigkan@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a>
+    <a href="mailto:kauan.koenigkan@outlook.com" target="_blank"><img src="https://img.shields.io/badge/kauan.koenigkan@outlook.com-0078D4?style=for-the-badge&logo=kauan.koenigkan@outlook.com&logoColor=white" alt="Outlook" /></a> &nbsp
     <a href="https://www.linkedin.com/in/kauankoenigkan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
