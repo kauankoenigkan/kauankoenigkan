@@ -22,8 +22,6 @@
   <img align="center" alt="Kauan-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />­­ &nbsp
   <img align="center" alt="Kauan-NodeJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />­­ &nbsp
   <img align="center" alt="Kauan-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />­­ &nbsp
-  <img align="center" alt="Kauan-VSCODE" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />­­ &nbsp
-  <img align="center" alt="Kauan-IntelliJ" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />­­
 </div>
 
 ##
