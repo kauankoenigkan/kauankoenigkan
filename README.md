@@ -14,14 +14,17 @@
   <a href="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent"><img height="180" src="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;<a href="https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&layout=donut&hide_title=true&langs_count=4&theme=transparent"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&layout=donut&hide_title=true&langs_count=4&theme=transparent" alt="Top Langs" /></a>
 </p> 
 
+---
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />­­ &nbsp
-  <img align="center" alt="Kauan-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />­­ &nbsp
+  <img align="center" alt="Kauan-SpringBoot" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />­­ &nbsp
+  <img align="center" alt="Kauan-NodeJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />­­ &nbsp
   <img align="center" alt="Kauan-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />­­ &nbsp
   <img align="center" alt="Kauan-Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />­­ &nbsp
   <img align="center" alt="Kauan-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />­­ &nbsp
-  <img align="center" alt="Kauan-NodeJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />­­ &nbsp
-  <img align="center" alt="Kauan-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />­­ &nbsp
+  <img align="center" alt="Kauan-Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />­­ &nbsp
+  <img align="center" alt="Kauan-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />­­
 </div>
 
 ##
