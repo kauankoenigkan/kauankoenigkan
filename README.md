@@ -19,6 +19,7 @@
   <img align="center" alt="Kauan-SpringBoot" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />­­ &nbsp
   <img align="center" alt="Kauan-NodeJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />­­ &nbsp
   <img align="center" alt="Kauan-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />­­ &nbsp
+  <img align="center" alt="Kauan-Angular" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" />­­ &nbsp
   <img align="center" alt="Kauan-Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />­­ &nbsp
   <img align="center" alt="Kauan-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />­­ &nbsp
   <img align="center" alt="Kauan-Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />­­ &nbsp
