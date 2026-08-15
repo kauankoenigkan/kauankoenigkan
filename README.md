@@ -11,7 +11,7 @@
 
 ### 📊 Estatística do perfil
 <p align="left">
-  <a href="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent"><img height="180" src="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent&cache_seconds=1" alt="GitHub Stats" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;<a href="https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&layout=donut&hide_title=true&langs_count=4&theme=transparent&cache_seconds=1"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&layout=donut&hide_title=true&langs_count=4&theme=transparent" alt="Top Langs" /></a>
+  <a href="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent"><img height="180" src="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent&cache_seconds=2" alt="GitHub Stats" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;<a href="https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&layout=donut&hide_title=true&langs_count=4&theme=transparent&cache_seconds=1"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&layout=donut&hide_title=true&langs_count=4&theme=transparent" alt="Top Langs" /></a>
 </p> 
 
 <div style="display: inline_block"><br>
