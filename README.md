@@ -4,7 +4,7 @@
 <p align="justify">
   Estudante de Análise e Desenvolvimento de Sistemas, e mais do que escrever códigos, gosto de entender o motivo por trás de cada problema antes de sair 'codando' a solução. Tenho um jeito curioso de     encarar as coisas: gosto de separar o problema em partes para entende-las e só depois montar a solução de preferência, mais simples e sustentável possível.<br>
   Fora do código, gosto de colocar minhas ideias em prática, criando projetos pessoais do zero para aprender fazendo e não apenas lendo.<br>
-  Hoje busco uma oportunidade de estágio para colocar tudo isso em prática. E com isso, crescer e aprender com a equipe...
+  Hoje busco uma oportunidade de estágio para colocar tudo isso em prática. E com isso, crescer e aprender com a equipe.
 </p>
 
 ##
