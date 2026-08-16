@@ -28,6 +28,7 @@
 
 ##
 ---
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kauankoenigkan&theme=dark&bg_color=00000000&border_color=30363d&height=180)](https://github.com/stats-organization/github-stats-extended)
 ---
 ---
 
