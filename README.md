@@ -10,9 +10,9 @@
 ##
 
 ### 📊 Estatística do perfil
-<p align="left">
-  <a href="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent"><img height="180" src="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent&v=2" alt="GitHub Stats" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;<a href="https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&layout=donut&hide_title=true&langs_count=4&theme=transparent"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&layout=donut&hide_title=true&langs_count=4&theme=transparent&v=2" alt="Top Langs" /></a>
-</p> 
+<img src="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&theme=dark&bg_color=00000000&border_color=30363d" width="48%" height="195" style="object-fit: contain;" />&nbsp;&nbsp;<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kauankoenigkan&theme=dark&bg_color=00000000&border_color=30363d" width="48%" height="195" style="object-fit: contain;" />
+ 
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />­­ &nbsp
