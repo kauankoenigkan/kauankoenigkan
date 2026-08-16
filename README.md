@@ -10,9 +10,10 @@
 ##
 
 ### 📊 Estatística do perfil
-<img src="https://github-stats-extended.vercel.app/api?username=kauankoenigkan&theme=dark&bg_color=00000000&border_color=30363d" width="48%" height="195" style="object-fit: contain;" />&nbsp;&nbsp;<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kauankoenigkan&theme=dark&bg_color=00000000&border_color=30363d" width="48%" height="195" style="object-fit: contain;" />
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kauankoenigkan&theme=dark&bg_color=00000000&border_color=30363d)](https://github.com/stats-organization/github-stats-extended)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kauankoenigkan&theme=dark&bg_color=00000000&border_color=30363d)](https://github.com/stats-organization/github-stats-extended)
  
-##
+## 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />­­ &nbsp
