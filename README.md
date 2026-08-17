@@ -10,7 +10,7 @@
 ##
 
 ### 📊 Estatística do perfil
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kauankoenigkan&theme=dark&bg_color=00000000&border_color=30363d)](https://github.com/stats-organization/github-stats-extended)&nbsp;&nbsp;&nbsp;
+[![KauanKoenigkan GitHub stats](https://github-stats-extended.vercel.app/api?username=kauankoenigkan&theme=dark&bg_color=00000000&border_color=30363d)](https://github.com/stats-organization/github-stats-extended)&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kauankoenigkan&theme=dark&bg_color=00000000&border_color=30363d)](https://github.com/stats-organization/github-stats-extended)
  
 ## 
