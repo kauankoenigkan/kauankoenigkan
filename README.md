@@ -13,20 +13,25 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=kauankoenigkan&langs_count=6&theme=transparent)&nbsp;&nbsp;&nbsp;
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=kauankoenigkan&show_icons=true&include_all_commits=true&theme=transparent)
  
-## 
+##
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kauan-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />­­ &nbsp
-  <img align="center" alt="Kauan-SpringBoot" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />­­ &nbsp
-  <img align="center" alt="Kauan-NodeJS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />­­ &nbsp
-  <img align="center" alt="Kauan-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />­­ &nbsp
-  <img align="center" alt="Kauan-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />­­ &nbsp
-  <img align="center" alt="Kauan-Angular" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" />­­ &nbsp
-  <img align="center" alt="Kauan-Mysql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />­­ &nbsp
-  <img align="center" alt="Kauan-Git" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />­­ &nbsp
-  <img align="center" alt="Kauan-Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />­­ &nbsp
-  <img align="center" alt="Kauan-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />­­
-</div>
+### 💻 Linguagens
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🚀 Frameworks & Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ##
 
